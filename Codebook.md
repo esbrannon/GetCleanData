@@ -28,5 +28,5 @@ This program completes the following tasks (not in this order)
 # Variables
 * subject: There were 30 subjects in the study, each subject can be identified by the 'subject' variable
 * activity_num: There were six types of activities, these activities can be identified by the 'activity_num' variable
-** 1 = Walking
-** 2 = Walking Upstairs
+  * 1 = Walking
+  * 2 = Walking Upstairs
