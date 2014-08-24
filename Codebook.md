@@ -35,3 +35,9 @@ This program completes the following tasks (not in this order)
 * activity_num: There were six types of activities, these activities can be identified by the 'activity_num' variable
   * 1 = Walking
   * 2 = Walking Upstairs
+  * 3 = Walking Downstairs
+  * 4 = Sitting
+  * 5 = Standing
+  * 6 = Laying
+* Note that the 'activity_num' variable is described by the corresponding 'activity_lables' variable
+* The remaining variables are the mean of the variables in the 'test' and 'train' datasets corresponding to the same subject and activity. For example, the mean value for the 'tBodyAcc-mean()-X' was calculated for subject one for each different activity (walking, walking upstairs, etc.). 
